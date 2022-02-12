@@ -6,33 +6,27 @@ To write a python program to implement K-Means Clustering Algorithm.
 2.	Anaconda – Python 3.7 Installation
 
 ## Algorithm:
+Step1 import the necessary packages.
 
-### Step1
-<br>
+Step2 Read the csv file.
 
-### Step2
-<br>
+Step3 Scatter plot the applicant income and loan amount.
 
-### Step3
-<br>
+Step4 Obtain the kmean clustring for 2 classes.
 
-### Step4
-<br>
-
-### Step5
-<br>
+Step5 Pretict the cluster group of Applicant Income and Loanamount.
 
 ## Program:
-```
+~~~
 
 
 
 
 
 
-```
+~~~
 ## Output:
-
+![](s3.png)
 ### Insert your output
 
 <br>
